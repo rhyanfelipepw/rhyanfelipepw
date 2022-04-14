@@ -1,5 +1,5 @@
 
-## Olá, Meu nome é Rhyan Felipe Guarato.
+## Olá, meu nome é Rhyan Felipe Guarato.
 - 🔭 Full Stack Developer
 - 🌱 Cyber Security | Estudando arquitetura de software
 - 📫 Email: rhyanfelipepw@hotmail.com 
