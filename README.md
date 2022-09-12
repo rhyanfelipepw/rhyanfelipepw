@@ -1,7 +1,7 @@
 
 ## Olá, Eu sou o Rhyan Felipe.
 - 🔭 Full Stack Developer
-- 🌱 Cyber Security | Estudando arquitetura de software
+- 🌱 Cyber Security | Software Enginner
 - 📫 Email: rhyanfelipepw@hotmail.com 
 
 <div align="left">
